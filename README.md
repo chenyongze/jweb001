@@ -14,3 +14,13 @@ fastjson
 
 > gradle 构建
 
+
+> get点
+
+```markdown
+
+* gradle生成SpringMVC实现RESTful返回JSON格式数据
+
+```
+
+
